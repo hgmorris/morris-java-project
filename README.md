@@ -7,7 +7,7 @@ As a software engineer looking to further my understanding of Java, I developed 
 
 To see this software in action and get an overview of the code, I've created a demonstration video. This 4-5 minute demo showcases the software running in a console environment and walks through the code, highlighting what I've learned about Java language syntax.
 
-Software Demo Video link:
+Software Demo Video link: https://youtu.be/WyHV04JbD18
 
 I used the following tools to develop the software:
 
